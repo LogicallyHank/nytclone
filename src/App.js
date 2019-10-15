@@ -8,7 +8,7 @@ datetitle:  <div class="flex-box">
 <p class='headtitle'>THE SHIFT</p>
 <div class="break"></div>
 </div>,
-title: <p class='title'>"Kodak's Dubious Blockchain Gamble"</p>,
+title: <p class='title'>Kodak's Dubious Blockchain Gamble</p>,
 summary:"What's a 130-year-old photo company doing dabbling in cryptocurrency? Either revolutionizing digital rights management or trying to make a quick buck.",
 author:"By KEVIN ROOSE",
 image:'https://cdn3.imggmi.com/uploads/2019/10/10/529ea1201a9786138d35977e66195ead-full.jpg',
@@ -17,7 +17,7 @@ line: <hr/>
 {
 datetitle: <div class="flex-box">
 <p class='date'>Jan. 30, 2018</p>
-<p class='title'>'Taiwan Retaliates Against Chinese Airlines, Hampering Lunar New Year Travel'</p>
+<p class='title'>Taiwan Retaliates Against Chinese Airlines, Hampering Lunar New Year Travel</p>
 <div class="break"></div>
 </div>,
 title:'',
@@ -29,7 +29,7 @@ line: <hr/>
 {
 datetitle:<div class="flex-box">
 <p class='date'>Jan. 30, 2018</p>
-<p class='title'>'New Jersey Embraces an Idea it Once Rejected: Make Utilities Pay to Emit Carbon'</p>
+<p class='title'>New Jersey Embraces an Idea it Once Rejected: Make Utilities Pay to Emit Carbon</p>
 <div class="break"></div>
 </div>,
 title:'',
